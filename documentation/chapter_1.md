@@ -10,3 +10,5 @@ Just fork the original repo at pragmaticlearning/github-example, make your chang
 
 test test test
 test test branch edit
+
+test2 test2
